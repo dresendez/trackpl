@@ -7,8 +7,8 @@ track profits and losses from daytrading or swingtrading
 
 1. **Clone the repository**
    ```bash
-   git clone [your-repository-url]
-   cd [repository-name]
+   git clone https://github.com/dresendez/trackpl.git
+   cd trackpl
    ```
 
 2. **Set up environment variables**
@@ -57,6 +57,7 @@ track profits and losses from daytrading or swingtrading
 
 - Main site: http://127.0.0.1:8000/
 - Admin interface: http://127.0.0.1:8000/admin
+- Calendar: http://127.0.0.1:8000/calendar
 
 ## Troubleshooting
 
